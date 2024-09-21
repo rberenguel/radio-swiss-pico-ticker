@@ -4,6 +4,8 @@ A "ticker" to show the currently playing song in [Radio Swiss](https://www.radio
 
 It requires a Pico with a [Pimoroni Unicorn hat](https://shop.pimoroni.com/products/pico-unicorn-pack?variant=32369501306963) as well as the [custom micropython for using it](https://github.com/pimoroni/pimoroni-pico/releases/tag/v1.23.0-1).
 
+The code is based on Pimoroni's examples for the Unicorn.
+
 https://github.com/user-attachments/assets/c9a372ee-4ffd-40c7-88b8-46d0a2e179db
 
 ---
